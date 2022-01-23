@@ -1,4 +1,4 @@
-require File.expand_path('../code/magic_square.rb')
+require File.expand_path('../code/magic_square')
 
 describe MagicSquare do
   describe '.validate' do

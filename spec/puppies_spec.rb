@@ -1,4 +1,4 @@
-require File.expand_path('../code/puppies.rb')
+require File.expand_path('../code/puppies')
 
 describe Puppies do
   describe '.parse' do
